@@ -64,10 +64,6 @@ Day 14 was productive and focused on strengthening **LinkedList concepts in Java
 
 * 🔗 GitHub Repo: [LinkedList-Quiz-using-frontend](https://github.com/SELVASTROM/LinkedList-Quiz-using-frontend)
 * 🌐 Live Demo: [Click here](https://selvastrom.github.io/LinkedList-Quiz-using-frontend/)
-🙋‍♂️ Author
+## 🙋‍♂️ Author
 Selva Strom
-🔗 GitHub Profile
-
-
-💡 Suggestions / Feedback
-Feel free to open an issue or contribute by submitting a pull request.
+🔗 GitHub Profile [See Me @](https://github.com/SELVASTROM).
